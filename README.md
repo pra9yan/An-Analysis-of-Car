@@ -62,4 +62,10 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ---
 
+## Note
+
+This work is done for the partial fulfillment of data science class conducted by NCC Education and taught by Mala Deep.
+
+---
+
 Happy exploring the world of cars! 🚗🔍
