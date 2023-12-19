@@ -60,7 +60,6 @@ Contributions to this project are welcome. If you have suggestions, find issues,
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code, but please adhere to the license terms.
 
----
 
 ## Note
 
