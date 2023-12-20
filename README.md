@@ -36,10 +36,6 @@ The analysis covers a wide range of aspects, such as:
 
 The code for the analysis can be found in the [analysis](/analysis) directory.
 
-## Findings
-
-The findings of the analysis are summarized in the [findings](/findings) directory. This includes visualizations, key insights, and any noteworthy observations derived from the data.
-
 ## Findings: Relationship Between Year and Kilometers Driven
 
 In this analysis, we delve into the intriguing relationship between the manufacturing year of vehicles and the total kilometers driven. Understanding this correlation provides valuable insights into the usage patterns and potential impacts on vehicle performance.
