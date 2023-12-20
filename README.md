@@ -22,7 +22,7 @@ The goal of this project is to provide insights into the world of automobiles th
 
 The analysis relies on diverse datasets from reputable sources, including:
 
-- [Dataset 1](#https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) - Description of the first dataset.
+- [Dataset 1](#https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) - This dataset was originally imported from the kaggle.
 
 Please refer to the respective sources for more information about the datasets used in this analysis.
 
