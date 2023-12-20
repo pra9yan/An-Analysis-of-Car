@@ -40,6 +40,36 @@ The code for the analysis can be found in the [analysis](/analysis) directory.
 
 The findings of the analysis are summarized in the [findings](/findings) directory. This includes visualizations, key insights, and any noteworthy observations derived from the data.
 
+## Findings: Relationship Between Year and Kilometers Driven
+
+In this analysis, we delve into the intriguing relationship between the manufacturing year of vehicles and the total kilometers driven. Understanding this correlation provides valuable insights into the usage patterns and potential impacts on vehicle performance.
+
+### 1. Scatter Plots and Trends
+
+- **Visual Exploration:** Utilizing scatter plots, the analysis visually represents the distribution of kilometers driven across different manufacturing years.
+
+- **Trend Analysis:** Observations from the scatter plots allow for the identification of trends, such as whether older cars tend to have higher or lower accumulated kilometers.
+
+### 2. Age of Vehicles and Mileage
+
+- **Statistical Analysis:** Examining the average kilometers driven for each year cohort provides statistical insights into the correlation between a vehicle's age and its mileage.
+
+- **Outliers and Anomalies:** Identification of outliers in the dataset helps uncover exceptional cases where a vehicle may have lower or higher mileage compared to its manufacturing year.
+
+### 3. Impact on Resale Value
+
+- **Resale Value Trends:** By considering the correlation between year and kilometers driven, the analysis explores potential impacts on the resale value of vehicles.
+
+- **Industry Insights:** Insights into how these factors influence the perceived value of cars in the market contribute to a broader understanding of the automotive industry.
+
+### 4. Predictive Modeling
+
+- **Machine Learning Approach:** The analysis employs machine learning models to predict the kilometers driven based on the manufacturing year.
+
+- **Model Accuracy:** Evaluation metrics and model accuracy provide an understanding of the model's ability to predict mileage, further contributing to the insights gained.
+
+Explore the detailed visualizations and analysis code in the [findings](/findings) directory for a more comprehensive exploration of these insights.
+
 ## Usage
 
 To explore the analysis and findings, follow these steps:
